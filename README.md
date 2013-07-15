@@ -18,7 +18,7 @@ How to install Cygwin?
 
 first, head over to <http://cygwin.com/install.html> and download the latest version of cygwin.
 
-when you see this screen:
+run it, and when you see this screen:
 
 <img src="http://xahlee.info/mswin/i/Cygwin_Setup_dialogue.png" style="width: 400px;"/>
 
@@ -31,6 +31,8 @@ Install apt-cyg
 
 apt-cyg is a command line tool to install new software. much like `apt-get`, `brew`, `mac-ports` or `yum`.
 got to <https://code.google.com/p/apt-cyg/> and follow the instructions.
+
+to use it, open cygwin and type `apt-cyg install [your package name]`
 
 - - -
 
