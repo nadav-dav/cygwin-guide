@@ -20,9 +20,12 @@ first, head over to <http://cygwin.com/install.html> and download the latest ver
 
 run it, and when you see this screen:
 
+**make sure to install `svn`** ! you will need it later to install `apt-cyg`
+
+beside that, add packages you need, like `git`, `python`, `wget`, `kdiff` etc.
+
 <img src="http://xahlee.info/mswin/i/Cygwin_Setup_dialogue.png" style="width: 400px;"/>
 
-make sure to include all the packages you need, like `git`, `python`, `wget`, `kdiff` etc.
 
 - - -
 
