@@ -33,7 +33,7 @@ Install apt-cyg
 -------------------
 
 apt-cyg is a command line tool to install new software. much like `apt-get`, `brew`, `mac-ports` or `yum`.
-got to <https://code.google.com/p/apt-cyg/> and follow the instructions.
+got to <https://github.com/transcode-open/apt-cyg/> and follow the instructions.
 
 to use it, open cygwin and type `apt-cyg install [your package name]`
 
@@ -42,7 +42,7 @@ to use it, open cygwin and type `apt-cyg install [your package name]`
 Install con-emu
 ---------------
 ConEmu is a console container for the Cygwin, it enables you to have tabs, shortcuts and what not!
-download and install it from here <https://code.google.com/p/conemu-maximus5/>
+download and install it from here <https://conemu.github.io/>
 
 
 #### Connecting ConEmu to Cygwin
