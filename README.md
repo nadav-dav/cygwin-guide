@@ -46,12 +46,15 @@ download and install it from here <https://conemu.github.io/>
 
 
 #### Connecting ConEmu to Cygwin
-to connect ConEmu to you Cygwin, go to settings (win+alt+p) > tasks > and hit the `+` sign.
+to connect ConEmu to you Cygwin, go to settings (win+alt+p) > Startup > Tasks > and hit the `+` sign.
 name the task `Cygwin` and the in the commands box type `C:\cygwin\Cygwin.bat`.
 
 now, choose `startup` in the left menu, choose `specified named task` and choose `cygwin`.
 
 done!
+
+<img src="https://cloud.githubusercontent.com/assets/3809524/14893230/d04004b4-0d6e-11e6-9ca4-15857d97a9c3.png" style="width: 400px;"/>
+> <small>thanks [@Moussab](https://github.com/mbennehar)</small>
 
 #### Assigning a keyboard shortcut
 I suggest assigning a keyboard shortcut to the console, it can be done in `Keys & Macro` and my suggestion is to assign `Ctrl+Shift+~` to `Minimize/Restore`.
